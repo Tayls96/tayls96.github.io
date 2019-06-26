@@ -217,7 +217,7 @@ bootstrap.min.css:5
 
 .baner-content .text-content {
 	text-align: center;
-    align-content: center;
+    margin-top: -20px;
 }
 
 .baner-content .text-content h2 {
