@@ -240,11 +240,12 @@ bootstrap.min.css:5
 	color: #fff;
 	font-size: 14px;
 	line-height: 24px;
-	padding: 30px 25%;
+	padding: 0px 25%;
 }
 
 .baner-content .text-content .primary-white-button {
 	margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 
