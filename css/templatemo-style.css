@@ -211,7 +211,7 @@ bootstrap.min.css:5
 	width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image: url(../img/bannernew.jpg);
+  	background-image: url(../img/aboutnew.jpg);
   	vertical-align: middle;
 }
 
@@ -250,7 +250,7 @@ bootstrap.min.css:5
 
 #about {
 	padding: 150px 0px;
-	background-image: url(../img/aboutnew.jpg);
+	background-image: url(../img/bannernew.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
