@@ -251,7 +251,7 @@ bootstrap.min.css:5
 
 #about {
 	padding: 150px 0px;
-	background-image: url(../img/bannernew.jpg);
+	background-image: url(../img/bannernewtwo.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -302,7 +302,9 @@ bootstrap.min.css:5
 }
 
 .projects-holder {
+    height: 700px;
 	padding: 30px 15px 0px 15px;
+    overflow: scroll;
 }
 
 .filter-categories {;
@@ -733,7 +735,6 @@ footer .connect-us ul li a {
 	color: #373a3c;
 	font-size: 15px;
 	transition: all 0.3s;
-    align-content: center;
 }
 footer .connect-us ul li a:hover {
 	background-color: #f7c552;
