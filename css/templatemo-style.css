@@ -417,48 +417,6 @@ bootstrap.min.css:5
   background: #fff;
 }
 
-
-
-
-#blog {
-	background-image: url(../img/blog-bg.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-}
-
-#blog .section-heading {
-	text-align: left;
-	padding-top: 60px;
-	padding-bottom: 60px;
-	background-color: rgba(0, 0, 0, 0.5);
-	height: 582px;
-	margin-left: -100vh;
-	padding-left: 100vh;
-	overflow: hidden!important;
-}
-
-#blog .section-heading h4 {
-	margin-top: 0px;
-	font-size: 20px;
-	text-transform: uppercase;
-	font-weight: 700;
-	color: #fff;
-	letter-spacing: 1px;
-}
-
-#blog .section-heading .line-dec {
-	width: 270px;
-	height: 1px;
-	background-color: rgba(250, 250, 250, 0.5);
-	margin: 20px 0 15px 0;
-}
-
-#blog .section-heading p {
-	color: #fff;
-	padding-right: 70px;
-}
-
 .wrapper {
   text-align: center;
 }
@@ -557,6 +515,7 @@ bootstrap.min.css:5
 #contact-us .section-heading p {
 	color: #fff;
 	padding: 0px 33%;
+    font-size: 18px;
 }
 
 #contact-us .pop-button {
@@ -774,6 +733,7 @@ footer .connect-us ul li a {
 	color: #373a3c;
 	font-size: 15px;
 	transition: all 0.3s;
+    align-content: center;
 }
 footer .connect-us ul li a:hover {
 	background-color: #f7c552;
