@@ -21,8 +21,8 @@ $email = $_REQUEST['email'] ;
 $message = $_REQUEST['message'] ;
 $name = $_REQUEST['name'] ;
 $msg = 
-"Name: " . $name . "\r\n" . 
-"Email: " . $email . "\r\n" . 
+"name: " . $name . "\r\n" . 
+"email: " . $email . "\r\n" . 
 "message: " . $message ;
 
 /*
