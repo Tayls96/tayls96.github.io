@@ -610,7 +610,12 @@ bootstrap.min.css:5
 	transition: all 0.5s;
 }
 
-
+.email p {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 170px;
+}
 
 
 footer {
